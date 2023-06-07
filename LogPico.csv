@@ -1,0 +1,36 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1686050351648,510,Acessar Site,200,OK,Usuários Pico 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,498,0,156
+1686050352158,300,Escolher Origem e Destino,200,OK,Usuários Pico 1-1,text,true,,7245,214,1,1,https://www.blazedemo.com/reserve.php,280,0,0
+1686050352458,524,Escolher o Voo,200,OK,Usuários Pico 1-1,text,true,,6719,267,1,1,https://www.blazedemo.com/purchase.php,511,0,0
+1686050352982,263,Confirmar Reserva,200,OK,Usuários Pico 1-1,text,true,,5780,376,1,1,https://www.blazedemo.com/confirmation.php,252,0,0
+1686050353245,299,Acessar Site,200,OK,Usuários Pico 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,289,0,0
+1686050353561,156,Escolher Origem e Destino,429,Too Many Requests,Usuários Pico 1-1,text,false,,212,214,2,2,https://www.blazedemo.com/reserve.php,156,0,0
+1686050353717,157,Escolher o Voo,429,Too Many Requests,Usuários Pico 1-1,text,false,,212,267,2,2,https://www.blazedemo.com/purchase.php,157,0,0
+1686050353657,425,Acessar Site,200,OK,Usuários Pico 1-2,text,true,,4757,119,2,2,https://www.blazedemo.com/,414,0,157
+1686050353874,258,Confirmar Reserva,200,OK,Usuários Pico 1-1,text,true,,5780,376,2,2,https://www.blazedemo.com/confirmation.php,247,0,0
+1686050354082,273,Escolher Origem e Destino,200,OK,Usuários Pico 1-2,text,true,,7245,214,2,2,https://www.blazedemo.com/reserve.php,254,0,0
+1686050354132,252,Acessar Site,200,OK,Usuários Pico 1-1,text,true,,4757,119,2,2,https://www.blazedemo.com/,240,0,0
+1686050354356,249,Escolher o Voo,200,OK,Usuários Pico 1-2,text,true,,6719,267,2,2,https://www.blazedemo.com/purchase.php,237,0,0
+1686050354384,257,Escolher Origem e Destino,200,OK,Usuários Pico 1-1,text,true,,7245,214,2,2,https://www.blazedemo.com/reserve.php,237,0,0
+1686050354605,258,Confirmar Reserva,200,OK,Usuários Pico 1-2,text,true,,5780,376,2,2,https://www.blazedemo.com/confirmation.php,246,0,0
+1686050354641,264,Escolher o Voo,200,OK,Usuários Pico 1-1,text,true,,6719,267,2,2,https://www.blazedemo.com/purchase.php,251,0,0
+1686050354863,258,Acessar Site,200,OK,Usuários Pico 1-2,text,true,,4757,119,2,2,https://www.blazedemo.com/,245,0,0
+1686050354905,257,Confirmar Reserva,200,OK,Usuários Pico 1-1,text,true,,5780,376,2,2,https://www.blazedemo.com/confirmation.php,246,0,0
+1686050355121,286,Escolher Origem e Destino,200,OK,Usuários Pico 1-2,text,true,,7245,214,2,2,https://www.blazedemo.com/reserve.php,267,0,0
+1686050355162,275,Acessar Site,200,OK,Usuários Pico 1-1,text,true,,4757,119,2,2,https://www.blazedemo.com/,263,0,0
+1686050355407,261,Escolher o Voo,200,OK,Usuários Pico 1-2,text,true,,6719,267,3,3,https://www.blazedemo.com/purchase.php,249,0,0
+1686050355437,273,Escolher Origem e Destino,200,OK,Usuários Pico 1-1,text,true,,7245,214,3,3,https://www.blazedemo.com/reserve.php,253,0,0
+1686050355668,268,Confirmar Reserva,200,OK,Usuários Pico 1-2,text,true,,5780,376,3,3,https://www.blazedemo.com/confirmation.php,256,0,0
+1686050355710,260,Escolher o Voo,200,OK,Usuários Pico 1-1,text,true,,6719,267,3,3,https://www.blazedemo.com/purchase.php,249,0,0
+1686050355649,431,Acessar Site,200,OK,Usuários Pico 1-3,text,true,,4757,119,3,3,https://www.blazedemo.com/,420,0,161
+1686050355936,249,Acessar Site,200,OK,Usuários Pico 1-2,text,true,,4757,119,3,3,https://www.blazedemo.com/,237,0,0
+1686050355970,286,Confirmar Reserva,200,OK,Usuários Pico 1-1,text,true,,5780,376,3,3,https://www.blazedemo.com/confirmation.php,274,0,0
+1686050356081,279,Escolher Origem e Destino,200,OK,Usuários Pico 1-3,text,true,,7245,214,3,3,https://www.blazedemo.com/reserve.php,259,0,0
+1686050356185,256,Escolher Origem e Destino,200,OK,Usuários Pico 1-2,text,true,,7245,214,3,3,https://www.blazedemo.com/reserve.php,236,0,0
+1686050356257,267,Acessar Site,200,OK,Usuários Pico 1-1,text,true,,4757,119,3,3,https://www.blazedemo.com/,256,0,0
+1686050356360,262,Escolher o Voo,200,OK,Usuários Pico 1-3,text,true,,6719,267,3,3,https://www.blazedemo.com/purchase.php,250,0,0
+1686050356441,283,Escolher o Voo,200,OK,Usuários Pico 1-2,text,true,,6719,267,3,3,https://www.blazedemo.com/purchase.php,270,0,0
+1686050356524,258,Escolher Origem e Destino,200,OK,Usuários Pico 1-1,text,true,,7245,214,2,2,https://www.blazedemo.com/reserve.php,237,0,0
+1686050356622,284,Confirmar Reserva,200,OK,Usuários Pico 1-3,text,true,,5780,376,1,1,https://www.blazedemo.com/confirmation.php,272,0,0
+1686050357653,448,Acessar Site,200,OK,Usuários Pico 1-4,text,true,,4757,119,1,1,https://www.blazedemo.com/,438,0,153
+1686050359648,430,Acessar Site,200,OK,Usuários Pico 1-5,text,true,,4757,119,1,1,https://www.blazedemo.com/,419,0,158
